@@ -1,7 +1,7 @@
-# Millet-Mall
+# web-mall
 
 #### Description
-小米商城
+网页商城
 
 #### Software Architecture
 Software architecture description
@@ -14,8 +14,8 @@ Software architecture description
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
+1.  项目依赖初始化
+2.  npm run serve启动项目
 3.  xxxx
 
 #### Contribution
